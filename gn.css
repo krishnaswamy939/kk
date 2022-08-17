@@ -1,0 +1,30 @@
+body {
+    color: black;
+    background-color: rgb(198, 225, 206);
+    border: 2px solid black;
+    border-radius: 3%;
+    border-top: 1px dotted black;
+    font-style: italic;
+}
+hr {
+    border-top:5px dotted black;
+    margin-left: 43%;
+    margin-right: 43%;
+}
+img {
+    border: 2px solid black;
+    border-radius: 50%;
+}
+a2 {
+    padding: auto;
+    margin: auto;
+
+    display: inline;
+}
+div {
+    display: inline-block;
+    padding: 10px;
+}
+#aa {
+    padding-left: 80%;
+}
